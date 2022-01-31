@@ -26,7 +26,7 @@ export default () => {
       const sendData = async () => {
         try{
           console.log(formData);
-          const response = await axios.post(
+          const response = await axios.get(
             //"https://back-25watts.herokuapp.com/public/api/altausuario",
             //"http://127.0.0.1:8000/api/usuario-nuevo",    
            // "https://proyectolaravel2022.herokuapp.com/api/usuario-nuevo",   
