@@ -31,9 +31,9 @@ export default () => {
             //"https://back-25watts.herokuapp.com/public/api/altausuario",
             //"http://127.0.0.1:8000/api/usuario-nuevo",    
            // "https://proyectolaravel2022.herokuapp.com/api/usuario-nuevo",   
-           "https://proyectolaravel2022.herokuapp.com/public/usuario-nuevo",
+           //"https://proyectolaravel2022.herokuapp.com/public/usuario-nuevo",
               
-           //"https://proyectolaravel2022.herokuapp.com/public/api/usuario-nuevo",  
+           "https://proyectolaravel2022.herokuapp.com/public/api/usuario-nuevo",  
 
            
             formData
